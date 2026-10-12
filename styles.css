@@ -1,0 +1,59 @@
+body{
+    background: #E7ECEF;
+}
+.hero{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #121212;
+    border: 2px solid #121212;
+    width: 420px;
+    justify-content: center;
+    margin: 20px auto;
+    background-color: #AFE5EC;
+    border-radius: 4px;
+    
+}
+img{
+    width: 380px;
+    border: 3px solid black;
+    
+}
+p {
+    width: 380px;
+    font-style: italic;
+}
+#mail {
+    border: 3px solid black;
+    padding: 8px 17px 8px 17px; 
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 7px;
+    line-height: 4px;
+    font-size:90%;
+    border-radius: 3px;
+}
+button{
+    background: #121212;
+    border: none;
+    color: whitesmoke;
+    padding: 8px 70px 8px 70px; 
+    text-align: center;
+    font-weight: bold;
+  
+
+    font-size:90%;
+    margin-bottom: 10px;
+}
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-size: 12px;
+
+}
+a {
+    color: #121212;
+}
